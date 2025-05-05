@@ -109,9 +109,9 @@ Data cleaning, transformation, and statistical analysis for engineering pipeline
 
 ## 📫 Let's Connect
 
-- 🌍 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace this)*  
-- 💼 [Portfolio](https://yourportfolio.com) *(coming soon)*  
-- 📧 Email: yourname@example.com
+- 🌍 [LinkedIn](www.linkedin.com/in/shohruh-bekmurodov)
+- 💼 [Portfolio](https://yourportfolio.com)
+- 📧 Email: bekmurodovshohruh0224@gmail.com
 
 ---
 
